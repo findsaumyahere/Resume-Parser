@@ -1,0 +1,2 @@
+
+CMtool=svn,github,mercurial,cvs

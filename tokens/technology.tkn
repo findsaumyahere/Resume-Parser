@@ -1,0 +1,13 @@
+technology=java,spring,hibernate,swing,jpa,axis,java/j2ee
+tools=tortoise,rose,power,point,excel,control-m,jprob,jprofiler,eclipse,netbean,jbuilder
+CMtool=svn,github,mercurial,cvs
+database=oracle,db2,mysql,postgree,daffodildb,sql server,sqlserver
+languages=java,c,c++,sql,pl/sql
+automation=celenium,
+digitaltechnology=hadoop,bigdata,
+mobile=android,IOS,
+platform=linux,windows,unix,Mac,macintosh
+hardware=pentium,IBM
+company=tcs,tech mahindra,sapient,hcl,
+methedology=agile,rup
+others=sixsigma,togaf
